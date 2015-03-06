@@ -1,9 +1,9 @@
 #go-dockerclient
 
-[![Build Status](https://drone.io/github.com/fsouza/go-dockerclient/status.png)](https://drone.io/github.com/fsouza/go-dockerclient/latest)
+[![Build Status](https://drone.io/github.com/azoff/go-dockerclient/status.png)](https://drone.io/github.com/azoff/go-dockerclient/latest)
 [![Build Status](https://travis-ci.org/fsouza/go-dockerclient.png)](https://travis-ci.org/fsouza/go-dockerclient)
 
-[![GoDoc](http://godoc.org/github.com/fsouza/go-dockerclient?status.png)](http://godoc.org/github.com/fsouza/go-dockerclient)
+[![GoDoc](http://godoc.org/github.com/azoff/go-dockerclient?status.png)](http://godoc.org/github.com/azoff/go-dockerclient)
 
 This package presents a client for the Docker remote API.
 
@@ -16,7 +16,7 @@ package main
 
 import (
         "fmt"
-        "github.com/fsouza/go-dockerclient"
+        "github.com/azoff/go-dockerclient"
 )
 
 func main() {
